@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  animation
-//
-//  Created by mucci on 16/07/22.
-//
-
 import SwiftUI
 
 struct ContentView: View {
